@@ -1,12 +1,12 @@
 ### Hi there 👋
 
+💡 [I'm Julien Ponge](https://julien.ponge.org)
+
 👨🏻‍💻 I work for [Red Hat](https://www.redhat.com/en) on reactive, including:
 * [Eclipse Vert.x](https://github.com/eclipse-vertx/vert.x)
 * [Smallrye Mutiny](https://github.com/smallrye/smallrye-mutiny)
 
 📖 I wrote the book [Vert.x in Action](https://www.manning.com/books/vertx-in-action) at Manning
-
-💡 [My personal website](https://julien.ponge.org)
 
 📜 Noteworthy creations: 
 * the [Eclipse Golo programming language](https://github.com/eclipse/golo-lang)
