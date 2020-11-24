@@ -5,6 +5,7 @@
 👨🏻‍💻 I work for [Red Hat](https://www.redhat.com/en) on reactive, including:
 * [Eclipse Vert.x](https://github.com/eclipse-vertx/vert.x)
 * [Smallrye Mutiny](https://github.com/smallrye/smallrye-mutiny)
+* [Quarkus](https://github.com/quarkusio/quarkus)
 
 📖 I wrote the book [Vert.x in Action](https://www.manning.com/books/vertx-in-action) at Manning
 
